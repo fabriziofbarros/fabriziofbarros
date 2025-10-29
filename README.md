@@ -20,7 +20,7 @@
 
 ### 🧠 Tech Stack  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,typescript,javascript,html,css,git,vscode,figma,nodejs,cs" />
+  <img src="https://skillicons.dev/icons?i=react,typescript,javascript,html,css,nodejs,vue" />
 </p>
 
 🛒 **E-commerce Platforms:** VTEX IO • Uappi • Commerce APIs  
