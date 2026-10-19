@@ -25,7 +25,7 @@
 
 **E-commerce platforms**
 
-![VTEX IO](https://img.shields.io/badge/VTEX_IO-F71963?style=flat-square&logo=vtex&logoColor=white) ![Store Framework](https://img.shields.io/badge/Store_Framework-F71963?style=flat-square&logo=vtex&logoColor=white) ![Uappi](https://img.shields.io/badge/Uappi-6D28D9?style=flat-square&logoColor=white) ![nopCommerce](https://img.shields.io/badge/nopCommerce-1E293B?style=flat-square&logoColor=white)
+![VTEX IO](https://img.shields.io/badge/VTEX_IO-F71963?style=flat-square&logo=vtex&logoColor=white) ![Store Framework](https://img.shields.io/badge/Store_Framework-F71963?style=flat-square&logo=vtex&logoColor=white) ![FastStore](https://img.shields.io/badge/FastStore-F71963?style=flat-square&logo=vtex&logoColor=white) ![Deco](https://img.shields.io/badge/Deco-02F67C?style=flat-square&logoColor=black) ![Uappi](https://img.shields.io/badge/Uappi-6D28D9?style=flat-square&logoColor=white) ![nopCommerce](https://img.shields.io/badge/nopCommerce-1E293B?style=flat-square&logoColor=white)
 
 **Tools and cloud**
 
@@ -37,6 +37,15 @@
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=fabriziofbarros&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&theme=transparent" alt="GitHub stats" />
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fabriziofbarros&layout=compact&hide_border=true&theme=transparent" alt="Top languages" />
 </p>
+
+## Stores I worked on (FRN³)
+
+E-commerce stores I worked on at FRN³. My scope ranged from specific pages and components (header, PLP, PDP) to custom apps.
+
+- **VTEX IO:** [Tchê Inverno](https://www.tcheinverno.com.br/) · [Weleda](https://www.weleda.com.br/) · [Gelopar](https://www.gelopar.com.br/) · [Kärcher](https://loja.karcher.com.br/) · [Marelli](https://www.marelli.com.br/)
+- **FastStore:** [Hidramais](https://www.hidramais.com.br/) · [Mottu Store](https://www.loja.mottu.com.br/)
+- **Deco:** [Cutterman Co.](https://www.cutterman.co/)
+- **Uappi:** [Mormaii Shop](https://www.mormaiishop.com.br/) · [Ahead Sports](https://www.aheadsports.com.br/)
 
 ## Projects
 
