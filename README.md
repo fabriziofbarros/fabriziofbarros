@@ -1,61 +1,51 @@
-<!-- 👋 INTRO -->
-<h1 align="center">Hey, I'm Fabrizio</h1>
-<h3 align="center">💻 Junior Developer @ <a href="https://frncubo.com.br" target="_blank">FRN Cubo</a> | E-commerce & Web Developer</h3>
+# Fabrizio Barros
 
-<p align="center">
-  <a href="https://linkedin.com/in/fabriziofbarros"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"/></a>
-  <a href="https://github.com/fabriziofbarros"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"/></a>
+**Mid-level full-stack developer at FRN³.** I build e-commerce storefronts on VTEX IO and the Node.js services that connect them to external APIs and ERPs. Around 20 stores delivered on VTEX and Uappi, from the product page to the order reaching the merchant's back office.
+
+## Experience
+
+**FRN³**, Full-stack Developer, Jul 2023 to present (São Paulo, Brazil)
+- Joined as an intern, promoted to junior, then to mid-level.
+- Storefronts on VTEX IO: Store Framework, React, TypeScript.
+- Node.js services inside VTEX IO apps, including external API and ERP integrations.
+
+**Freelance**, 2021 to 2023
+- A JavaScript chatbot for a client.
+- A nopCommerce (C#) store deployed on Azure.
+
+## Tech
+
+**Frontend**
+
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+
+**Backend and integrations**
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![C#](https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=dotnet&logoColor=white) ![REST APIs](https://img.shields.io/badge/REST_APIs-005571?style=flat-square&logoColor=white) ![ERP Integrations](https://img.shields.io/badge/ERP_Integrations-4B5563?style=flat-square&logoColor=white)
+
+**E-commerce platforms**
+
+![VTEX IO](https://img.shields.io/badge/VTEX_IO-F71963?style=flat-square&logo=vtex&logoColor=white) ![Store Framework](https://img.shields.io/badge/Store_Framework-F71963?style=flat-square&logo=vtex&logoColor=white) ![Uappi](https://img.shields.io/badge/Uappi-6D28D9?style=flat-square&logoColor=white) ![nopCommerce](https://img.shields.io/badge/nopCommerce-1E293B?style=flat-square&logoColor=white)
+
+**Tools and cloud**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white) ![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white) ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+
+## GitHub stats
+
+<p>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=fabriziofbarros&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&theme=transparent" alt="GitHub stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fabriziofbarros&layout=compact&hide_border=true&theme=transparent" alt="Top languages" />
 </p>
 
----
+## Projects
 
-### 🧭 About Me  
-- 🌎 Based in Brazil  
-- 👨‍💻 Junior developer at **FRN Cubo** since **Aug 2023**  
-- 🎓 Graduated in **Systems Analysis & Development – FIAP (2023)**  
-- 🛍️ Focused on **e-commerce** and **front-end development**  
-- 🚀 Always learning full-stack tools & modern web tech  
+- [VTEX-GridSystem](https://github.com/fabriziofbarros/VTEX-GridSystem) (2021): my first VTEX IO app, built on my own before my first developer job to put what I had studied into practice. It lets a buyer order a product's SKU matrix by two attributes (for example color x size) from the PDP.
 
----
+## Education
 
-### 🧠 Tech Stack  
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,typescript,javascript,html,css,nodejs,vue" />
-</p>
+- FIAP, Systems Analysis and Development, 2023
 
-🛒 **E-commerce Platforms:** VTEX IO • Uappi • Commerce APIs  
-⚙️ **Learning:** Back-end with Node.js and C#
+## Contact
 
----
-
-### 🛍️ Projects I’ve Worked On  
-I contributed to e-commerce projects for brands such as:  
-**Tchê Inverno**, **Cadoro Glass**, **Uza Shoes**, **Rojemac**, **SP Equipamentos**, **São Geraldo**,  
-**Essencial Para Você**, **Mormaii**, **Mottu**, **Francis**, **Drunk Elephant**, **Weleda**,  
-**Gelopar**, **Culligan**, **Marelli**, **MUP Makeup**, **Kärcher**, **Rojemac**, and more.  
-
-On the **Uappi** platform, I also contributed to:  
-**Be Blair**, **Ahead Sports**, and **Elber**.
-
-
----
-
-### 🧩 Side Projects  
-- 🧱 [**Grid Shopping (VTEX App)**](https://github.com/fabriziofbarros/VTEX-GridSystem) – Custom VTEX app to buy configurable products more intuitively.  
-- 💬 **Chatbot JS** – Built from scratch for a freelance project using JavaScript and simple NLP logic.
-
----
-
-### 📚 My Journey  
-
-🎓 I graduated in **Systems Analysis and Development** from **FIAP** at the end of 2023, after two years of study.  
-
-💡 My journey with technology began in early **2021**, when I started learning programming with **HTML**, **CSS**, and **JavaScript** during the pandemic.  
-Over time, I expanded my skills with **C#**, **TypeScript**, and **React.js**, studying through platforms like **Egghead** and **Front-End Masters**.
-
-🛍️ Committed about e-commerce tech, I explored **VTEX**, completing several courses at the **VTEX Learning Center** and learning how to build **VTEX IO applications** and use **commerce APIs**.  
-Later, I created a custom VTEX app called **Grid Shopping**, designed to make buying configurable products faster and more intuitive.
-
-💬 I also developed a **JavaScript chatbot** from scratch for a freelance project.  
-Always learning and improving, I'm focused on growing as a **full-stack developer** and creating impactful digital experiences in the e-commerce world.
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fabriziofbarros/)
